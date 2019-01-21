@@ -1,7 +1,6 @@
 # BiSeNet-CCP
-extends Scene Segmentation to Instance Segmentation using 8-Connected Components Decision.
 
-In this project, we use BiSeNet as our backbone network to finish scene segmentation task, then Connected Components Decision is used to finish instance segmentation.
+In this project, we use BiSeNet as our backbone network to finish scene segmentation task, then use Connected Components Decision to Postprocess scene segmentaion results to finish instance segmentation task.
 
 The details can be accessed in [CV_Poster.pdf](CV_Poster.pdf).
 
