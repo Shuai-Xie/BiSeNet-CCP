@@ -11,12 +11,12 @@ Bilateral Segmentation Network (BiSeNet) is designed to segment scenes in Real-t
 
 The BiSeNet architure is shown as below.
 
-<center><img src="imgs/bisenet-architecture.png"></center>
+<div align="center"><img src="imgs/bisenet-architecture.png"></div>
 
 ## Connected Components Postprocessing
 To extend scene segmentation to instance segmentation, we use 8-connected components decision to postprocess the BiSeNet outputs. The connected components theory is shown as below.
 
-<center><img src="imgs/connect-components.png"></center>
+<div align="center"><img width="600" src="imgs/connect-components.png"></div>
 
 The idea is quite easy.
 
@@ -33,7 +33,7 @@ Database links:
 Models can be found at [Baiduyun](https://pan.baidu.com/s/1qMLJXWTsTttOCaB_NSrnbw).
 
 ### ADE20K
-<center><img src="imgs/ADE20K_150_label_map.png" alt="ADE20K_150_label_map"></center>
+<div align="center"><img src="imgs/ADE20K_150_label_map.png" alt="ADE20K_150_label_map"></div>
 <table>
 	<tr>
 		<th><center>Raw Image</center></th>
@@ -62,7 +62,7 @@ Models can be found at [Baiduyun](https://pan.baidu.com/s/1qMLJXWTsTttOCaB_NSrnb
 </table>
 
 ### SUN-RGBD
-<center><img src="imgs/SUNRGB_37_label_map.png" alt="SUNRGB_37_label_map"></center>
+<div align="center"><img src="imgs/SUNRGB_37_label_map.png" alt="SUNRGB_37_label_map"></div>
 <table>
 	<tr>
 		<th><center>Raw Image</center></th>
