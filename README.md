@@ -29,6 +29,9 @@ Database links:
 - ADE20K: http://groups.csail.mit.edu/vision/datasets/ADE20K/
 - SUN-RGBD: http://rgbd.cs.princeton.edu/
 
+
+Models can be found at [Baiduyun](https://pan.baidu.com/s/1qMLJXWTsTttOCaB_NSrnbw).
+
 ### ADE20K
 <img src="imgs/ADE20K_150_label_map.png" alt="ADE20K_150_label_map">
 <table>
