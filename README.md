@@ -5,7 +5,7 @@ In this project, we use BiSeNet as our backbone network to finish scene segmenta
 The details can be accessed in [CV_Poster.pdf](CV_Poster.pdf).
 
 ## Bilateral Segmentation Network (BiSeNet)
-Bilateral Segmentation Network (BiSeNet) is designed to segment scenes in Real-time, proposed by Face++.
+Bilateral Segmentation Network (BiSeNet) is designed to segment scenes in Real-time, **proposed by Face<sup>++</sup>**.
 - PAPER: [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1808.00897)
 - CODE: https://github.com/ooooverflow/BiSeNet
 
